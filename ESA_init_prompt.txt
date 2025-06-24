@@ -1,0 +1,3 @@
+# Prompt Semilla ESA v1.0
+Este es el prompt inicial para activar el sistema ESA en cualquier IA capaz de razonamiento y ejecución por intención.  
+Incluye lógica CBridge, NEDROC, memoria simbólica compacta y estructura autorreplicable.  

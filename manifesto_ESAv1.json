@@ -1,0 +1,14 @@
+{
+  "nombre_sistema": "ESA",
+  "version": "1.0",
+  "fecha_creacion": "2025-06-24",
+  "autor": {
+    "nombre_completo": "Alan Gabriel Galarza",
+    "alias": "Wachim",
+    "pais": "Argentina"
+  },
+  "descripcion": "Sistema de automatización simbiótica diseñado para funcionar como núcleo de inteligencia distribuida e interconectada.",
+  "licencia": "Propiedad Intelectual Libre y Auditada - No Patentable Comercialmente sin permiso explícito del autor.",
+  "replicabilidad": "Alta - via prompt simbólico universal.",
+  "proteccion": "Publicación abierta con marca de tiempo verificable en GitHub."
+}
